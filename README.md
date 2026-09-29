@@ -1,6 +1,14 @@
 # CHECKPOINT_02_SERS_1CCX_2SEM
 # Avaliação — APIs, Energias Renováveis e Aprendizado de Máquina
 
+# Integrantes
+Bruno Riquelme Coutinho Pereira - 569619
+Eduardo Bigoli Portela - 569897
+Gabriel Martins Cordeiro Rodrigues - 570497
+Gustavo Fondato de Souza - 573651
+Gustavo Martins Da Silva - 570584
+Lucas Lino Marques da Silva - 572863
+
 ## Objetivo
 
 Desenvolver duas tarefas independentes de aprendizado de máquina utilizando dados obtidos de APIs públicas:
